@@ -1,0 +1,97 @@
+itemNummer,bedingung,anapherArt,indirektenAnapherArt,unterkategorie,spezifikation,kontext,stimulussatz,anker,anapher,erlaeuterung,verstaendnisfrage,erwarteteAntwort,anapherIdx
+1,V,IA,Semantisch,Verbsemantisch-basiert,Instrument,Restaurant,Klara/hat/Gemüse/geschnitten.//Leider/war/*das Messer*/nicht/scharf/genug.,schneiden,das Messer,,,,6
+2,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Restaurant,Martin/hat/heute/besonders/viel/gegessen.//Er/findet/*die Nudeln*/wirklich/gut.,essen,die Nudeln,,,,8
+3,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Restaurant,Max/hat/beim/Essen/kaum/etwas/getrunken.//Er/findet/*den Rotwein*/zu/trocken.,trinken,der Rotwein,,,,9
+4,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Restaurant,Anna/hat/dasselbe/wie/letzte/Woche/bestellt.//Sie/kann/*das Gericht*/immer/wieder/essen.,bestellen,das Gericht,,,,9
+5,V,IA,Semantisch,Verbsemantisch-basiert,Agens,Restaurant,Julia/bekam/ihr/Essen/schnell/serviert.//Sie/gab/*dem Kellner*/ein/gutes/Trinkgeld.,servieren,der Kellner,,,,8
+6,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Restaurant,Julian/hat/an/der/Theke/bezahlt.///Leider/war/*die Rechnung*/sehr/hoch.,bezahlen,die Rechnung,,War die Rechnung hoch?,Ja,9
+7,V,IA,Semantisch,Verbsemantisch-basiert,Instrument,Krimi,Ben/hat/heute/einen/Hirsch/geschossen.//Später/reinigte/er/*das Gewehr*/äußerst/gründlich.,schießen,das Gewehr,,,,9
+8,V,IA,Semantisch,Verbsemantisch-basiert,Agens,Krimi,Anja/wurde/in/allen/Punkten/freigesprochen.//Sie/war/*dem Richter*/sehr/dankbar.,freisprechen,der Richter,,,,8
+9,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Krimi,Jannik/wurde/letztes/Jahr/umgebracht.//Bis/heute/konnte/*der Mörder*/nicht/gefasst/werden.,umbringen,der Mörder,,,,8
+10,V,IA,Semantisch,Verbsemantisch-basiert,Agens,Krimi,Veronica/wurde/im/Urlaub/die/Handtasche/gestohlen.//Leider/wurde/*der Dieb*/nicht/gefunden.,stehlen,der Dieb,,Wurde der Dieb von Veronicas Handtasche gefunden?,Nein,9
+11,V,IA,Semantisch,Verbsemantisch-basiert,Objekt,Krimi,Luisa/hat/aus/Rache/getötet.//Sie/hat/*die Leiche*/im/Wald/vergraben.,töten,die Leiche,,Hat Luisa die Leiche im Garten vergraben?,Nein,7
+12,V,IA,Semantisch,Verbsemantisch-basiert,Agens,Krimi,Diana/wurde/während/des/Gerichtsverfahrens/schlecht/verteidigt.//Tatsächlich/hatte/*der Anwalt*/sich/nicht/vorbereitet.,verteidigen,der Anwalt,,,,9
+13,M,IA,Semantisch,Meronymie-basiert,Objekt/Material,Restaurant,Melissa/backt/für/ihre/Party/selbst/den/Kuchen.//Sie/färbt/*die Glasur*/ausnahmsweise/pink.,der Kuchen,die Glasur,,,,10
+14,M,IA,Semantisch,Meronymie-basiert,Menge/Mitglieder,Restaurant,Rita/hat/Probleme/mit/dem/Personal.//Sie/möchte/aber/vor/allem/*den Chefkoch*/schnell/ersetzen.,das Personal,der Chefkoch,,,,11
+15,M,IA,Semantisch,Meronymie-basiert,Objekt/Bestandteil,Restaurant,Laura/besucht/häufiger/das/Lokal.//Man/kann/dort/*die Küche*/durch/eine/Glasscheibe/sehen.,das Lokal,die Küche,,,,8
+16,M,IA,Semantisch,Meronymie-basiert,Ereignis/Episoden,Restaurant,Susanne/bewertet/im/Restaurant/immer/den/Service.//Sie/legt/auf/*die Begrüßung*/einen/besonderen/Wert.,der Service,die Begrüßung,,,,10
+17,M,IA,Semantisch,Meronymie-basiert,Ereignis/Episoden,Restaurant,Thomas/benötigt/für/seine/Menüs/immer/viel/Zeit/für/die/Zubereitung.//Er/findet/*das Schneiden*/allerdings/sehr/entspannend.,die Zubereitung,das Schneiden,,Benötigt Thomas für die Zubereitung seiner Menüs viel Zeit?,Ja,13
+18,M,IA,Semantisch,Meronymie-basiert,Objekt/Bestandteil // Ereignis/ Episode,Restaurant,Emily/ist/in/der/Vorbereitung/für/das/Menü.//Sie/steckt/in/*den Hauptgang*/immer/sehr/viel/Arbeit.,das Menü,der Hauptgang,,,,11
+19,M,IA,Semantisch,Meronymie-basiert,Objekt/Bestandteil,Krimi,Georg/blickt/von/seinem/Fenster/aus/auf/das/Gefängnis.//Aber/er/kann/sich/*die Zellen*/schlecht/vorstellen.,das Gefängnis,die Zellen,,Sieht Georg von seinem Fenster aus einen Kindergarten?,Nein,13
+20,M,IA,Semantisch,Meronymie-basiert,Objekt/Material,Krimi,Gina/spürt/an/ihrem/Hals/das/Messer.//Sie/empfindet/*das Metall*/als/ungewöhnlich/kalt.,das Messer,das Metall,,,,9
+21,M,IA,Semantisch,Meronymie-basiert,Ereignis/Episoden,Krimi,Walter/verfolgt/aufmerksam/den/Prozess.//Er/ist/auf/*das Urteil*/sehr/gespannt.,der Prozess,das Urteil,,Verfolgt Walter den Prozess?,Ja,8
+22,M,IA,Semantisch,Meronymie-basiert,Objekt/Bestandteil,Krimi,Victoria/fährt/das/Fluchtfahrzeug.//Wegen/der/hohen/Geschwindigkeit/quietschen/*die Reifen*/verdächtig/laut.,das Fluchtfahrzeug,die Reifen,,,,9
+23,M,IA,Semantisch,Meronymie-basiert,Ereignis/Episoden,Krimi,Klara/leitet/die/Ermittlungen.//Sie/startet/mit/*der Befragung*/am/frühen/Vormittag.,die Ermittlungen,die Befragung,,,,7
+24,M,IA,Semantisch,Meronymie-basiert,Objekt/Portionen,Krimi,Julius/blickt/auf/die/Akte.//Er/sieht/*die Blätter*/aus/ihr/schon/hervorquellen.,die Akte,die Blätter,,,,7
+25,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Gabi/arbeitet/heute/in/der/Küche.//Sie/kann/mit/*dem Ofen*/allerdings/schlecht/umgehen.,die Küche,der Ofen,,Arbeitet Gabi heute in der Küche?,Ja,9
+26,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Ulrike/fragt/nach/dem/Koch.//Er/kommt/mit/*der Schürze*/wenig/später/hinaus.,der Koch,die Schürze,,,,8
+27,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Paula/besorgt/für/die/Feier/den/Kuchen.//Sie/kann/*dem Duft*/kaum/widerstehen.,der Kuchen,der Duft,,Besorgt Paula für die Feier die Chips?,Nein,9
+28,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Josef/geht/seit/einer/Woche/täglich/in/das/neue/Café.//Er/mag/*den Kuchen*/dort/am/liebsten.,das Café,der Kuchen,,,,12
+29,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Dana/bringt/ihrem/Chef/jeden/Tag/den/Kaffee.//Sie/stellt/*die Milch*/immer/direkt/daneben/ab.,der Kaffee,die Milch,,,,10
+30,S,IA,Konzeptuell,Schema-basiert,,Restaurant,Darius/hob/das/Glas.//Er/legte/*den Untersetzer*/vorsichtig/darunter.,das Glas,der Untersetzer,,,,6
+31,S,IA,Konzeptuell,Schema-basiert,,Krimi,Willi/ist/gerne/auf/dem/Friedhof.//Er/vergisst/*die Toten*/dabei/komplett.,der Friedhof,die Toten,,,,8
+32,S,IA,Konzeptuell,Schema-basiert,,Krimi,Tanja/geht/täglich/ins/Gericht.//Sie/muss/*ihren Anwalt*/dort/treffen.,das Gericht,der Anwalt,,Trifft Tanja ihren Anwalt täglich im Gericht?,Ja,7
+33,S,IA,Konzeptuell,Schema-basiert,,Krimi,Herbert/ist/nun/seit/einem/Jahr/im/Gefängnis.//Er/findet/*die Wärter*/dort/sehr/nett.,das Gefängnis,die Wärter,,,,10
+34,S,IA,Konzeptuell,Schema-basiert,,Krimi,Franzi/ist/gerade/mitten/im/Verhör.//Aber/sie/bekommt/aus/*dem Verdächtigen*/nichts/heraus.,das Verhör,der Verdächtige,,,,10
+35,S,IA,Konzeptuell,Schema-basiert,,Krimi,Jonas/führte/gestern/die/Befragung.//Er/erfuhr/von/*den Zeugen*/jedoch/nichts/Neues.,die Befragung,die Zeugen,,,,8
+36,S,IA,Konzeptuell,Schema-basiert,,Krimi,Anne/führte/den/Prozess.//Sie/hatte/mit/*dem Freispruch*/nicht/gerechnet.,der Prozess,der Freispruch,,,,7
+37,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Toni/mag/das/aromatische/Gericht.//Aber/sie/findet/*die Gräten*/sehr/unangenehm.,das Gericht,die Gräten,Das Gericht ist ein Fischgericht und enthielt daher Gräten,Findet Toni den Geruch störend?,Nein,8
+38,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Sina/freut/sich/über/den/Kuchen.//Aber/mit/*dem Kern*/hatte/sie/nicht/gerechnet.,der Kuchen,der Kern,Beim Entsteinen der Kirschen für den Kuchen wurde ein Kern übersehen,,,8
+39,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Anna/war/sehr/traurig/über/den/besetzten/Tisch.//Man/hatte/*ihre Reservierung*/leider/vergessen.,der Tisch,die Reservierung,Es wurde vor dem Restaurantbesuch ein Tisch reserviert,,,10
+40,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Marina/stand/vor/der/verschlossenen/Tür.//Sie/hatte/*die Öffnungszeiten*/nicht/beachtet.,die Tür,die Öffnungszeiten,"Die Tür ist geschlossen, weil die Gäste es außerhalb der Öffnungszeiten versucht haben.",,,8
+41,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Peter/genoss/den/Wein.//Aber/auf/*den Fleck*/auf/seinem/Teppich/hätte/er/gut/verzichten/können.,der Wein,der Fleck,Der Wein wurde verschüttet und hat einen Fleck erzeugt,Mochte Peter den Wein?,Ja,6
+42,I,IA,Konzeptuell,Inferenzbasiert,,Restaurant,Ronja/genoss/eigentlich/das/Dessert.//Aber/sie/fand/*das Haar*/wirklich/unappetitlich.,das Dessert,das Haar,In dem Dessert befand sich ein Haar von dem Koch/ der Köchin,,,8
+43,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Denise/fand/den/Toten.//Bis/jetzt/gibt/es/auf/*den Mörder*/keine/Hinweise.,der Tote,der Mörder,Der Tote ist nicht natürlich verstorben,,,9
+44,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Daria/beobachtete/den/Unfall.//Sie/wird/von/*dem Gutachter*/lange/befragt.,der Unfall,der Gutachter,Der Unfall wurde von einem Gutachter untersucht,,,7
+45,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Tatjana/untersuchte/den/spektakulären/Raub.//Sie/fand/*die Leiter*/hinter/dem/Gebäude.,der Raub,die Leiter,"Der Raub wurde mithilfe einer Leiter begangen, die Zutritt zum entsprechenden Gebäude verschafft hat",,,7
+46,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Werner/beunruhigte/das/Verschwinden/seiner/Schwester.//Er/musste/*das Lösegeld*/wenige/Tage/später/zahlen.,das Verschwinden,das Lösegeld,"Das Verschwinden ist auf eine Entführung zurückzuführen, weshalb Lösegeld gefordert wird",,,8
+47,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Ulf/meldete/der/Polizei/den/Einbruch.//Er/hatte/*die Scherben*/überall/verteilt/gefunden.,der Einbruch,die Scherben,"Beim Einbruch wurde etwas beschädigt, das Scherben hinterlassen hat (Fenster, Vasen…)",Fand Ulf überall Dreck?,Nein,8
+48,I,IA,Konzeptuell,Inferenzbasiert,,Krimi,Alfred/beobachtete/den/Täter.//Er/war/von/*der Maske*/überaus/beunruhigt.,der Täter,die Maske,"Der Täter trug eine Maske, um unerkannt zu bleiben",,,7
+1,V,DA,,,,Restaurant,Sonja/trocknet/ein/Schneidebrett/und/ein/Messer.//Dabei/fällt/*das Messer*/auf/den/Boden.,,das Messer,,Trocknet Sonja eine Gabel und ein Messer?,Nein,9
+2,V,DA,,,,Restaurant,Frida/isst/heute/Abend/Nudeln.//Sie/bestreut/*die Nudeln*/mit/viel/Parmesan.,,die Nudeln,,,,7
+3,V,DA,,,,Restaurant,Daniel/trinkt/zum/Essen/heute/einen/Rotwein.//Er/trinkt/*den Rotwein*/komplett/aus.,,der Rotwein,,,,9
+4,V,DA,,,,Restaurant,Tom/probiert/heute/ein/neues/Gericht.//Er/findet/*das Gericht*/viel/besser/als/sein/übliches/Gericht.,,das Gericht,,,,8
+5,V,DA,,,,Restaurant,Fabian/hatte/gestern/einen/besonders/netten/Kellner.//Er/gab/*dem Kellner*/ein/gutes/Trinkgeld.,,der Kellner,,War Fabians Kellner gestern nett?,Ja,9
+6,V,DA,,,,Restaurant,Carla/sieht/auf/ihrem/Tisch/eine/Rechnung.//Tatsächlich/ist/*die Rechnung*/aber/für/den/Nachbartisch.,,die Rechnung,,,,9
+7,V,DA,,,,Krimi,Judith/findet/im/Keller/ihres/Hauses/ein/Gewehr.//Ihr/Mann/hat/*das Gewehr*/dort/gelagert.,,das Gewehr,,Findet Judith auf dem Dachboden ein Gewehr?,Nein,11
+8,V,DA,,,,Krimi,Jan/traf/heute/beim/Mittagessen/einen/Richter.//Dabei/sprach/*der Richter*/viel/über/seine/Arbeit.,,der Richter,,,,9
+9,V,DA,,,,Krimi,Nina/verteidigt/als/Anwältin/einen/Mörder.//Sie/hat/*den Mörder*/bis/jetzt/nur/einmal/getroffen.,,der Mörder,,,,8
+10,V,DA,,,,Krimi,Justus/beobachtet/beim/Einkaufen/einen/Dieb.//Er/meldet/*den Dieb*/an/einen/Mitarbeiter/im/Laden.,,der Dieb,,,,8
+11,V,DA,,,,Krimi,Niklas/fand/beim/Umgraben/seines/Gartens/eine/Leiche.//Erschreckenderweise/hatte/*die Leiche*/keine/Zähne/mehr.,,die Leiche,,,,10
+12,V,DA,,,,Krimi,Konrad/nahm/sich/wegen/eines/Schadenfalls/einen/Anwalt.//Er/hatte/*den Anwalt*/im/Internet/gefunden.,,der Anwalt,,,,10
+13,M,DA,,,,Restaurant,Karl/entscheidet/sich/in/der/Konditorei/für/eine/Glasur.//Er/mag/*die Glasur*/mit/Schokolade/am/liebsten.,,die Glasur,,,,11
+14,M,DA,,,,Restaurant,Lukas/besucht/einen/Kurs/bei/einem/Chefkoch.//Leider/kann/*der Chefkoch*/ihm/kaum/gute/Tipps/geben.,,der Chefkoch,,Besucht Lukas einen Kurs bei einem Chefkoch?,Ja,9
+15,M,DA,,,,Restaurant,Nele/baut/für/ihr/Café/selbst/eine/Küche.//Sie/steckt/in/*die Küche*/wirklich/viel/Arbeit.,,die Küche,,,,11
+16,M,DA,,,,Restaurant,Peter/startet/seine/Meetings/immer/mit/einer/Begrüßung.//Er/empfindet/*die Begrüßung*/als/sehr/wichtig/für/einen/respektvollen/Umgang.,,die Begrüßung,,,,10
+17,M,DA,,,,Restaurant,Helen/braucht/ein/besseres/Messer/zum/Schneiden.//Sie/braucht/daher/*beim Schneiden*/immer/sehr/lange.,,das Schneiden,,,,10
+18,M,DA,,,,Restaurant,Jens/isst/heute/eine/Vorspeise/und/einen/Hauptgang.//Er/findet/*den Hauptgang*/sehr/gut/gelungen.,,der Hauptgang,,Findet Jens den Hauptgang gut gelungen?,Ja,10
+19,M,DA,,,,Krimi,Emma/sieht/bei/ihrer/Arbeit/als/Anwältin/im/Gefängnis/häufiger/Zellen.//Aber/sie/betritt/*die Zellen*/nur/ungern.,,die Zellen,,,,14
+20,M,DA,,,,Krimi,Hans/arbeitet/täglich/mit/Metall.//Zur/Herstellung/von/Werkzeugen/wählt/er/*das Metall*/entsprechend/aus.,,das Metall,,,,11
+21,M,DA,,,,Krimi,Elisabeth/fällt/in/ihrem/Job/als/Richterin/jeden/Tag/ein/Urteil.//Heute/fällt/*das Urteil*/milder/aus/als/sonst.,,das Urteil,,,,13
+22,M,DA,,,,Krimi,Johann/betrachtet/zur/Spurensicherung/Reifen.//Aber/er/kann/an/*den Reifen*/keine/Spuren/entdecken.,,die Reifen,,,,9
+23,M,DA,,,,Krimi,Patrick/leitete/heute/eine/Befragung.//Er/empfand/*die Befragung*/als/wenig/hilfreich.,,die Befragung,,Empfand Patrick die Befragung als hilfreich?,Nein,7
+24,M,DA,,,,Krimi,Diana/ordnet/für/ihren/Fall/Blätter.//Sie/heftet/*die Blätter*/ordnungsgemäß/ab.,,die Blätter,,,,8
+25,S,DA,,,,Restaurant,Nils/möchte/schon/länger/für/sein/Café/einen/Ofen.//Aber/er/muss/auf/*den Ofen*/noch/etwas/sparen.,,der Ofen,,Kann sich Nils gerade einen neuen Ofen leisten?,Nein,13
+26,S,DA,,,,Restaurant,Edgar/sieht/im/Schaufenster/eine/Schürze.//Er/kauft/*die Schürze*/auf/der/Stelle.,,die Schürze,,,,8
+27,S,DA,,,,Restaurant,Andreas/vernimmt/in/seinem/Haus/einen/angenehmen/Duft.//Tatsächlich/weckt/*der Duft*/Erinnerungen/an/den/letzten/Urlaub.,,der Duft,,,,10
+28,S,DA,,,,Restaurant,Raya/backt/jeden/Tag/einen/Kuchen.//Sie/schenkt/*den Kuchen*/regelmässig/ihren/Nachbarn.,,der Kuchen,,,,8
+29,S,DA,,,,Restaurant,Torben/hat/im/Kühlschrank/seit/letztem/Monat/eine/Milch.//Er/schüttet/*die Milch*/vorsichtshalber/weg.,,die Milch,,Schüttet Torben die Milch aus seinem Kühlschrank weg?,Ja,11
+30,S,DA,,,,Restaurant,Lina/findet/in/der/Schublade/einen/Untersetzer.//Sie/legt/*den Untersetzer*/unter/ihr/Glas.,,der Untersetzer,,,,9
+31,S,DA,,,,Krimi,Sandra/untersucht/jeden/Tag/Tote.//Sie/hat/sich/an/*die Toten*/bereits/gewöhnt.,,die Toten,,,,9
+32,S,DA,,,,Krimi,Franz/nimmt/sich/einen/Anwalt.//Er/bezahlt/*dem Anwalt*/eine/Menge/Geld.,,der Anwalt,,,,7
+33,S,DA,,,,Krimi,Ela/trifft/in/ihrem/Job/im/Gefängnis/regelmäßig/auf/Wärter.//Sie/grüßt/*die Wärter*/dann/immer/freundlich.,,die Wärter,,,,12
+34,S,DA,,,,Krimi,Lorenz/beobachtete/einen/Verdächtigen.//Er/fühlt/sich/nun/selbst/von/*dem Verdächtigen*/ein/wenig/eingeschüchtert.,,der Verdächtige,,Fühlt sich Lorenz von dem Verdächtigen eingeschüchtert?,Ja,10
+35,S,DA,,,,Krimi,Lisa/sucht/in/ihrem/Fall/dringend/Zeugen.//Sie/erhofft/sich/von/*den Zeugen*/weitere/Hinweise.,,die Zeugen,,,,11
+36,S,DA,,,,Krimi,Robin/hofft/auf/einen/Freispruch.//Er/wäre/für/*den Freispruch*/wirklich/überaus/dankbar.,,der Freispruch,,,,8
+37,I,DA,,,,Restaurant,Rolf/sucht/in/seinem/Essen/nach/Gräten.//Er/entfernt/*die Gräten*/überaus/sorgsam.,,die Gräten,,,,9
+38,I,DA,,,,Restaurant,Julian/findet/in/seinem/Stück/Kuchen/einen/Kern.//Er/puhlt/*den Kern*/überrascht/heraus.,,der Kern,,Isst Julian den Kern in seinem Kuchen mit?,Nein,10
+39,I,DA,,,,Restaurant,Laura/hat/für/das/neue/Restaurant/eine/Reservierung.//Sie/freut/sich/auf/*die Reservierung*/schon/seit/Tagen.,,die Reservierung,,,,12
+40,I,DA,,,,Restaurant,Anton/liest/auf/der/Tür/die/Öffnungszeiten.//Er/findet/*die Öffnungszeiten*/wirklich/zu/kurz.,,die Öffnungszeiten,,,,9
+41,I,DA,,,,Restaurant,Tabea/hat/auf/ihrem/Sofa/einen/Fleck.//Sie/bekommt/*den Fleck*/aber/nicht/raus.,,der Fleck,,,,9
+42,I,DA,,,,Restaurant,Jochen/fand/in/seiner/Suppe/ein/Haar.//Er/fand/*das Haar*/wirklich/ekelerregend.,,das Haar,,,,9
+43,I,DA,,,,Krimi,Ferdinand/trifft/heute/einen/Mörder.//Er/vertritt/*den Mörder*/im/Gerichtsprozess.,,der Mörder,,Vertritt Ferdinand einen Mörder vor Gericht?,Ja,7
+44,I,DA,,,,Krimi,Luca/beauftraft/wegen/seines/Unfalls/einen/Gutachter.//Er/vertraut/*dem Gutachter*/wirklich/sehr.,,der Gutachter,,,,9
+45,I,DA,,,,Krimi,Gerhard/benutzte/für/seinen/Einbruch/eine/Leiter.//Er/konnte/mit/*der Leiter*/direkt/die/oberste/Etage/erreichen.,,die Leiter,,,,10
+46,I,DA,,,,Krimi,Maria/forderte/für/eine/entführte/Katze/Lösegeld.//Sie/erhielt/*das Lösegeld*/in/bar.,,das Lösegeld,,,,9
+47,I,DA,,,,Krimi,Anita/fand/bei/sich/im/Wohnzimmer/Scherben.//Sie/sammelte/*die Scherben*/vorsichtig/auf.,,die Scherben,,,,9
+48,I,DA,,,,Krimi,Verena/kaufte/eine/Maske.//Sie/wollte/durch/*die Maske*/unerkannt/bleiben.,,die Maske,,Kaufte Verena einen Pullover?,Nein,7
