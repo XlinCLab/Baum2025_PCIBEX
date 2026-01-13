@@ -1,0 +1,5 @@
+.vscode/
+archive/
+results/
+.DS_Store
+*.rtf
