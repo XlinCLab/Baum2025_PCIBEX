@@ -109,7 +109,7 @@ class ParticipantResults:
         parsed_results = []
         full_stimuli = defaultdict(lambda: {})
         stimulus_counter = 0
-        last_item = None
+        last_stimulus = None
         for result_key in self.result_keys:
             result_lines = self.result_sections[result_key]
             result_lines = [line.split(self.sep) for line in result_lines]
@@ -126,19 +126,20 @@ class ParticipantResults:
                 chunkIdx = int(line[9])     # index of word/chunk within sentence
                 itemNumber = line[13]       # column 14
                 anapherArt = line[17]       # type of anapher (IA or DA, column 18)
+                stimulusId = itemNumber + anapherArt
 
-                # If new itemNumber + anapher condition, increment the stimulus counter
-                if itemNumber + anapherArt != last_item:
-                    last_item = itemNumber + anapherArt
+                # If new stimulusId, increment the stimulus counter
+                if stimulusId != last_stimulus:
+                    last_stimulus = stimulusId
                     stimulus_counter += 1
 
                 # Adjust the word/chunk index for words in pt2 as the indices start over
                 if sentence_part.endswith("pt2"):
                     chunkIdx += part1_index
-                    full_stimuli[itemNumber][2] = line[27].strip()
+                    full_stimuli[stimulusId][2] = line[27].strip()
                 else:
                     part1_index = chunkIdx
-                    full_stimuli[itemNumber][1] = line[27].strip()
+                    full_stimuli[stimulusId][1] = line[27].strip()
 
                 # Compute position with respect to anapher of interest
                 anapherIdx = int(line[22])          # column 23
@@ -171,14 +172,14 @@ class ParticipantResults:
         compQuestionResponses = self.parse_comprehension_question_responses()
         for result in parsed_results:
             itemNumber = result["itemNummer"]
+            anapherArt = result["anapherArt"]
+            stimulusId = itemNumber + anapherArt
 
             # Combine the full sentences and add to individual results
-            fullStimulus = " ".join([full_stimuli[itemNumber][1], full_stimuli[itemNumber][2]])
+            fullStimulus = " ".join([full_stimuli[stimulusId][1], full_stimuli[stimulusId][2]])
             result["stimulusSatz"] = fullStimulus
 
             # Add evaluation of comprehension question responses
-            anapherArt = result["anapherArt"]
-            stimulusId = itemNumber + anapherArt
             if stimulusId in compQuestionResponses:
                 result["antwortRichtig"] = compQuestionResponses[stimulusId]["correct"]
 
